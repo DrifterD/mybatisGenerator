@@ -1,0 +1,2 @@
+# mybatisGenerator
+记录配置mybatisGenerator相关内容
